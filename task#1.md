@@ -4,7 +4,7 @@ It is necessary to create a `<BlogCard/>` component that would allow us to
 display information about a social media user. User data is stored in a
 [article.json](./src/data/article.json) file.
 
-[![BlogCard component preview](https://i.gyazo.com/5ce54e49016220bcde9209b893eb5e62.jpg)](https://gyazo.com/5ce54e49016220bcde9209b893eb5e62)
+![Preview](./assets/BlogCard.jpg)
 
 #### Description of the `<BlogCard/>` component
 

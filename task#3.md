@@ -5,7 +5,7 @@ display information about the current data from the **Forbes** portal.
 Information about the current ranking is available in
 [forbes.json](./src/data/forbes.json).
 
-[![Preview of the ForbesList component](https://i.gyazo.com/d860b2fbd570a9eb800917b116fa0423.png)](https://gyazo.com/d860b2fbd570a9eb800917b116fa0423)
+![Preview](./assets/ForbesList.png)
 
 #### Опис компонента `<ForbesList>`
 

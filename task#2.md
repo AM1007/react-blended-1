@@ -5,7 +5,7 @@ provided props - the main statistics of the online store regarding registered
 users, reviews, etc. The data for the statistics is stored in a file
 [data.json](./src/data/data.json).
 
-[![BlogCard component preview](https://i.gyazo.com/a75d617620bdb0805e19d5a394699dea.png)](https://gyazo.com/a75d617620bdb0805e19d5a394699dea)
+![Preview](./assets/Statistics.png)
 
 The component should accept two props, `title` and `stats`, where title
 specifies the title, and stats is an object containing the statistics.

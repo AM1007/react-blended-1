@@ -3,7 +3,7 @@
 It is necessary to create a transaction history component in the personal
 account of the crypto-wallet.
 
-[![A preview of the CryptoHistory component](https://i.gyazo.com/c40db818fdf62f749f97ab24f1946928.png)](https://gyazo.com/c40db818fdf62f749f97ab24f1946928)
+![Preview](./assets/Transaction.png)
 
 The data for the list is available in JSON format in the file
 [transactions.json](./src/data/transactions.json). This is an array of objects,
