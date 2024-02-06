@@ -1,11 +1,10 @@
 import { BlogCard } from 'components/BlogCard/BlogCard';
 import { Statistics } from 'components/Statistics/Statistics';
-import { CryptoHistory } from 'components';
-import { Container, Section, Heading } from 'components';
-// import { ForbesList } from 'components/ForbesList/ForbesList';
+import { Section, Heading, Container, CryptoHistory } from 'components';
+import { ForbesList } from 'components/ForbesList/ForbesList';
 import article from 'data/article.json';
 import data from 'data/data.json';
-// import forbes from 'data/forbes.json';
+import forbes from 'data/forbes.json';
 import transactions from 'data/transactions.json';
 
 export const App = () => {
@@ -23,7 +22,7 @@ export const App = () => {
         <Heading marginTop="50px" marginBottom="50px" textAlign="center">
           Task 3
         </Heading>
-        {/* <ForbesList list={forbes} /> */}
+        <ForbesList list={forbes} />
         <Heading marginTop="50px" marginBottom="50px" textAlign="center">
           Task 4
         </Heading>
